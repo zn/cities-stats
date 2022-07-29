@@ -17,7 +17,6 @@ static class Parser
     {
         var result  = new CitySearchInfo();
 
-        html = File.ReadAllText("/home/alex/Downloads/ачинск красноярский край — Яндекс нашлось 6 млн результатов.html");
         var doc = new HtmlDocument();
         doc.LoadHtml(html);
 
