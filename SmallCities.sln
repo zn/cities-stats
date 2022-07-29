@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallCities", "dbworker\SmallCities.csproj", "{6AE78C6D-1A5D-4A60-9B08-733183E5D1C1}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{3FEB8FA7-5E40-4FCA-AEB8-B60C4355BF87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parser", "parser\parser.csproj", "{6AE78C6D-1A5D-4A60-9B08-733183E5D1C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yadownloader", "yadownloader\yadownloader.csproj", "{5160975C-26DD-4EC7-8645-9600076F7264}"
 EndProject
